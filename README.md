@@ -240,13 +240,6 @@ Las contribuciones son bienvenidas. Para cambios importantes:
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
 
-## 📞 Soporte
-
-Si tienes preguntas o encuentras algún problema:
-
-- Abre un issue en el repositorio
-- Envía un email a [TU_EMAIL]
-
 ## ✨ Agradecimientos
 
 - Material-UI por su excelente biblioteca de componentes
